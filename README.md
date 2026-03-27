@@ -1,4 +1,4 @@
-# projectile-simulation-
+# projectile simulation
 # Air Resistance Simulation
 
 This project explores motion with air resistance using Python.
