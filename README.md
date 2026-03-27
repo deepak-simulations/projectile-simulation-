@@ -1,2 +1,17 @@
 # projectile-simulation-
-Projectile Motion Simulation  Simulated projectile motion with and without air resistance using Python.  Explored:  Effect of drag on trajectory , Range vs velocity  Real vs ideal physics
+# Air Resistance Simulation
+
+This project explores motion with air resistance using Python.
+
+## Concepts
+- Drag force
+- Numerical simulation
+- Graph visualization
+
+## Tools
+- Python
+- NumPy
+- Matplotlib
+
+## About Me
+I am learning scientific programming and documenting my journey publicly.
